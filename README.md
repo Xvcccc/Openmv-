@@ -1,1 +1,2 @@
 # Openmv数字图像检测
+利用TensorFlow自带minist手写数据集进行训练，然后将训练结果导入openmv中，进行识别
